@@ -1,0 +1,14 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 4%;
+}
+
+.logo{
+    color:rgb(100, 160, 101);
+}
+
+.navbar .profile{
+    width: 40px;
+}

@@ -8,7 +8,7 @@ import { toast } from 'react-toastify'
 function Edit() {
 
     const {id}=useParams()
-    const url='https://food-delivery-app-backend-omd9.onrender.com';
+    const url='https://online-food-delivery-website-e-commerce.onrender.com';
     const[image,setImage]=useState(false)
 
     const navigate=useNavigate();
